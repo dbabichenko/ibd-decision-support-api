@@ -1,6 +1,6 @@
-# University of Pittsburgh's IBD Decision Support Tool
+# University of Pittsburgh's IBD Decision Support API
 
-This repository contains the components of a tool developed by a team at [University of Pittsburgh](https://pitt.edu) in a collaboration between the School of Computing and Information, the School of Medicine, and the School of Public Health. Using 
+This repository contains an API developed by a team at [University of Pittsburgh](https://pitt.edu) in a collaboration between the School of Computing and Information, the School of Medicine, and the School of Public Health. Based on properties of a patient, including medical history, behavioral history, and demographic information, it can generate predictions about whether a patient will experience high medical charges, hospitalization, and prescription of systemic steroids in the next year. An example client to consume the API is also provided, though it can be consumed by any REST-aware client.
 
 ## Deployment
 
