@@ -45,7 +45,7 @@ All values are numeric. Many are boolean values expressed as 0s or 1s (1 is posi
 **For Crohn's disease patients**
 
 *NOTE:*
-* Only the values prior to `LabHemoGlobin0` (i.e. the first 20 ordinal positions) are required to make a prediction, but passing the remaining values may improve prediction quality.
+* Only the values prior to `LabHemoGlobinGroup0` (i.e. the first 20 ordinal positions) are required to make a prediction, but passing the remaining values may improve prediction quality.
 * If you pass fewer values than the maximum possible (in this case, 34), the API will automatically fill the remaining values with `null`.
 
 | Feature(s) | Ordinal position(s) | Type | Description |
